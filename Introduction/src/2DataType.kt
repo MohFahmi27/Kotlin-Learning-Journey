@@ -11,7 +11,7 @@ fun main() {
     var winner:Boolean = false
 //    TO OUTPUT THIS NEED FOR LOOP
     var listOfName = arrayOf<String>("Alex", "Something", "Karen")
-
+    print("$test")
 
 /*
 * val (Immutable reference) CANNOT BE CHANGE
